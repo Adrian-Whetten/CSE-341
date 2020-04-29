@@ -1,0 +1,45 @@
+button#week02, #week03, #week04, #week05, 
+#week06, #week07, #week08, #week09, #week10,
+#week11, #week12, #week13, #week14 {
+    background-color: black; 
+    border: none; 
+    width: 7cm;
+    height: 2cm;
+    color: whitesmoke;
+    font-family: 'Great Vibes', cursive;
+    font-size: 16pt;
+}
+
+header {
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+}
+
+h1 {
+    color: black;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Tangerine', cursive;
+}
+
+div#firstColumn {
+    float: left;
+    padding-left: 2cm;
+}
+
+div#secondColumn {
+    float: right; 
+    padding-right: 2cm;
+}
+
+#last {
+    margin: 0% 0% 0% 33%;
+    width: fit-content;
+}
+
+#container {
+    width: 21.3cm; 
+    margin: auto;
+}

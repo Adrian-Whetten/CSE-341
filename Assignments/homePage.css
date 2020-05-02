@@ -5,6 +5,7 @@ header {
 
 h1 {
     color: black;
+    width: 20%;
 }
 
 body {
@@ -14,4 +15,8 @@ body {
 
 #container {
     width: 80%;
+}
+
+#container p {
+    text-align: center;
 }

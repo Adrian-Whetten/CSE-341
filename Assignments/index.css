@@ -1,13 +1,12 @@
-button#week02, #week03, #week04, #week05, 
-#week06, #week07, #week08, #week09, #week10,
-#week11, #week12, #week13, #week14 {
-    background-color: black; 
+a {
     border: none; 
-    width: 7cm;
-    height: 2cm;
-    color: whitesmoke;
+    color: black;
     font-family: 'Great Vibes', cursive;
-    font-size: 16pt;
+    font-size: 1.5vw;
+}
+
+a:hover {
+    color: white;
 }
 
 header {
@@ -20,18 +19,12 @@ h1 {
 }
 
 body {
-    background-color: grey;
+    background-color: lightgrey;
     font-family: 'Tangerine', cursive;
-}
-
-div#firstColumn {
-    float: left;
-    padding-left: 2cm;
-}
-
-div#secondColumn {
-    float: right; 
-    padding-right: 2cm;
+    width: 50%;
+    height: 700px;
+    margin: auto;
+    
 }
 
 #last {
@@ -40,6 +33,27 @@ div#secondColumn {
 }
 
 #container {
-    width: 21.3cm; 
+    width: 40%; 
     margin: auto;
+    padding: 1% 2% 1% 2%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+#homepage {
+    margin: 0% 0% 0% 43%;
+    width: auto;
+}
+
+#homepage a {
+        color: black;
+        font-size: 1.5vw;
+        text-decoration: none;
+        border: 4px solid black;
+        padding: 1%;
+}
+
+#homepage a:hover {
+    color: white;
 }

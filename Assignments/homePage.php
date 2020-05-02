@@ -15,6 +15,13 @@
         <div id="me"> 
         
         <p>
+            Welcome! So glad you came today 
+            <?php 
+                echo date("d/m/Y");
+             ?> 
+             of all days! 
+             <br> 
+             <br>
             A little about myself, I really enjoy working outside and hanging 
             out with friends. <br> I really enjoy weight lifting and video games.
             I enjoy playing sports more than <br> watching them. I have an AMAZING

@@ -37,7 +37,7 @@
             to work for INL (Idaho Nuclear Laboratory). 
         </p>
 
-        <img src="meNjess.pNG" alt="Adrian and Jessica">
+        <img src="meNjess.png" alt="Adrian and Jessica">
     </div>
     <div id="assignments">
         <a href="index.html">Adrian's Assignments</a>
